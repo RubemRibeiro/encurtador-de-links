@@ -1,0 +1,28 @@
+{
+  "name": "encurtador-de-links",
+  "version": "1.0.0",
+  "description": "URL shortner para novo projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubemRibeiro/encurtador-de-links.git"
+  },
+  "author": "rubemribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubemRibeiro/encurtador-de-links/issues"
+  },
+  "homepage": "https://github.com/RubemRibeiro/encurtador-de-links#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongodb": "^6.15.0",
+    "nodemon": "^3.1.9"
+  }
+}
