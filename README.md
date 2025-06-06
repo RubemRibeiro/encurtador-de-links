@@ -92,12 +92,6 @@ encurtador-de-links/
 - `npm run build`: Compila o projeto para produção.
 - `npm start`: Inicia o servidor em modo de produção.
 
-### Testes:
 
-Os testes estão localizados na pasta `tests/` e podem ser executados com:
-
-```bash
-npm test
-```
 
 
